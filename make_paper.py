@@ -6,12 +6,12 @@ doc = create_document()
 add_title_page(
     doc,
     title="The Impact of X on Y",
-    name="David Field",
-    student_num="124706055",
-    course="BA Psychology & Computing",
+    name="John Doe",
+    student_num="123456789",
+    course="CK121 Psychology & Computing",
     university="University College Cork",
-    module_code="AP2051",
-    lecturer="Dr. Didier Ching",
+    module_code="AB1234",
+    lecturer="Dr. Jane Doe",
     date="August 28th, 2026",
 )
 
